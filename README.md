@@ -3,10 +3,12 @@
 I'm a student from Xiamen University Malaysia, Bachelor of Engineering in Data Science.
 
 - 🏆 NOIP 2022 First Prize (Heilongjiang Division)
-- 👨‍💻 Cpp / Python
+- 👨‍💻 C++ / Python
 - 📷 Videographer of Admission Office and Student Council PR
-- 🐱 Cat lover
-- ✈️ Aviation enthusiast
+- 🐱 Cat Lover
+- ✈️ Aviation Enthusiast
+
+---
 
 "Functions Describe the World"
 
